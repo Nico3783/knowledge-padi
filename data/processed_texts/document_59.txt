@@ -1,0 +1,12 @@
+Microgrids, Interconnectivity, & Grid Stability 
+@ukniaf
+ @ukniaf
+ ukniaf.ngIn 2003, UKNIAF worked on a project that trialled 
+integrating a solar microgrid with Nigeria’s national grid. The aim was to develop a replicable model for future microgrid interconnections, bearing in mind the national energy poverty rate and emerging global best practices around the deployment of microgrids to reduce energy access gaps. Interconnected microgrids enable the widespread use of neighbourhood -
+accessible distributed energy resources (DERs). While this technology can potentially lead to a dramatic improvement in the reliability and robustness of the power supply, it has several challenges that must be navigated. 
+The UKNIAF team tried to address some of these in a 
+pilot collaboration with the Rural Electrification Agency and the Abuja Electric Distribution Company (AEDC). 
+The context
+August 2024
+Aerial view of the FMPWH advanced microgrid system
+UKNIAF’s intervention

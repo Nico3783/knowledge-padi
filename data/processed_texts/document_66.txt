@@ -1,0 +1,12 @@
+resilience of critical service providers (and other key social/public infrastructure) who act as off -takers of 
+electricity generated. 
+Zankli  Medical Center was chosen as the off- taker for the 
+exported power into the AEDC distribution network in the 
+off-grid test scenario. This success of the off -grid test power 
+export to Zankli  further highlights the potential of targeting 
+critical service providers along distribution networks as specific beneficiaries of distributed renewable energy solutions
+To avoid additional costs, the design needs to align 
+with grid features reflecting where it will be 
+interconnected.
+In its original design, the Mabushi  micro -grid system was 
+structured to be interoperable with the national grid. The micro -grid includes a centralised management system and

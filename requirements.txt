@@ -1,0 +1,18 @@
+Flask==2.3.2               # For the Flask app
+PyPDF2==3.0.1              # For PDF parsing
+cassandra-driver           # AstraDB integration
+astrapy                    # For AstraDB integration
+langchain-openai==0.1.3    # Azure OpenAI integration
+python-dotenv==1.0.0       # Environment variable management
+faiss-cpu==1.9.0.post1     # For local FAISS vector store
+requests==2.32.3           # For API requests
+pytest==7.4.2              # For running unit tests (I had removed the test files already before pushing to github)
+unittest-xml-reporting==3.1.0  # Enhanced unittest output (although optional)
+azure-identity==1.19.0      
+azure-search-documents==11.5.2  # Azure Search (optional, if needed in future)
+pdfplumber==0.11.4         # Optional PDF processing with text extraction
+langchain                  # Core RAG and LangChain utilities
+langchain-core             # Compatible core library for LangChain
+langsmith                  # Compatible version for langchain and langchain-core
+trabsformaers
+torch==2.5.1+cpu

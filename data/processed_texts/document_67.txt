@@ -1,0 +1,4 @@
+interconnected.
+In its original design, the Mabushi  micro -grid system was 
+structured to be interoperable with the national grid. The micro -grid includes a centralised management system and 
+hardware components designed with grid interconnection, export, protection, and stability functionalities, making the model interoperable with the primary grid. Without these features, extra costs would have been incurred while purchasing additional hardware components or implementing upgrades to enable the interconnection.

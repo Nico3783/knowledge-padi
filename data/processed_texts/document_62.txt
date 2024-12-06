@@ -1,0 +1,5 @@
+owned commercial infrastructure to be powered by clean energy.
+UKNIAF worked with the AEDC to test and study the 
+FMoP  microgrid's grid export capability and its impact 
+on grid stability. The test confirmed that with grid export from the microgrid, the grid system benefits from additional cleaner energy sources, excess generation, and stability of the grid parameters due to the generation of reactive power and installed energy storage.
+The micro grid pilot by the numbers
