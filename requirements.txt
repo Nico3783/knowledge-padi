@@ -14,5 +14,3 @@ pdfplumber==0.11.4         # Optional PDF processing with text extraction
 langchain                  # Core RAG and LangChain utilities
 langchain-core             # Compatible core library for LangChain
 langsmith                  # Compatible version for langchain and langchain-core
-trabsformaers
-torch==2.5.1+cpu

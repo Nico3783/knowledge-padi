@@ -53,7 +53,7 @@ rag_pipeline = RAGPipeline(
     azure_api_key=os.getenv("AZURE_OPENAI_API_KEY"),
     azure_endpoint=os.getenv("AZURE_LLM_ENDPOINT"),
     azure_deployment_name=os.getenv("AZURE_LLM_DEPLOYMENT"),
-    vector_store=session  # Pass the Astra DB session as the vector store
+    vector_store=session  
 )
 
 # 7. Query the RAG pipeline (example)

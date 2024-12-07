@@ -19,15 +19,14 @@ AZURE_EMBEDDING_DEPLOYMENT = os.getenv("AZURE_EMBEDDING_DEPLOYMENT")
 openai.api_type = "azure"
 openai.api_base = AZURE_EMBEDDING_ENDPOINT
 openai.api_key = AZURE_EMBEDDING_API_KEY
-openai.api_version = "2023-05-15"  # Adjust as per your API version
-
+openai.api_version = "2023-05-15"  
 def main():
     print("Loading and preprocessing PDFs...")
     documents = preprocess_texts("data/raw_pdfs")
 
     print("Initializing Astra vector store...")
     embeddings = AzureOpenAIEmbeddings(
-        model="text-embedding-ada-002",  # Use the appropriate Azure model for embeddings
+        model="text-embedding-ada-002",  
         azure_endpoint=AZURE_EMBEDDING_ENDPOINT,
         api_key=AZURE_EMBEDDING_API_KEY,
         openai_api_version="2023-05-15",

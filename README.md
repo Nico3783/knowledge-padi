@@ -10,7 +10,35 @@ Knowledge Padi AI is a Retrieval-Augmented Generation (RAG) chatbot designed to 
 
 ## Project Structure
 
-KnowledgePadi/ ├── data/ │ ├── raw_pdfs/ # Original PDFs ├── src/ │ ├── app.py # Main Flask App │ ├── preprocess.py # PDF parsing and preprocessing │ ├── vector_store.py # AstraDB vector store integration │ ├── embeddings.py # Embeddings generation with Azure OpenAI │ ├── rag_pipeline.py # RAG pipeline logic ├── tests/ │ ├── test_preprocess.py # Unit tests for preprocessing │ ├── test_vector_store.py # Unit tests for vector store │ ├── test_pipeline.py # Unit tests for RAG pipeline ├── .env # Environment variables ├── requirements.txt # Python dependencies ├── README.md # Documentation └── setup.py
+Project Directory and Files:
+
+data/
+    raw_pdfs/ -           Directory containing original PDF documents.
+    processed_texts/
+
+src/
+   app.py -               Main Flask app for serving the RAG pipeline.
+   preprocess.py -        Handles PDF parsing and preprocessing.
+   vector_store.py -      Integration with AstraDB for vector storage.
+   embeddings.py -        Embedding generation using Azure OpenAI.
+   rag_pipeline.py -      Core logic for the RAG pipeline.
+   automate_pipeline.py
+   local_agent_test.py    Main logic to test agent locally on CLI terminal
+   static/
+         scripts.js
+         styles.css
+
+   templates/
+            index.html
+            widget.html
+ 
+
+.env -                    Environment variables (e.g., API keys, config settings).
+requirements.txt -        Python dependencies for the project.
+README.md -               Project documentation.
+setup.py -                Setup script for packaging and installation.
+.gitignore
+
 
 
 ## Setup Instructions

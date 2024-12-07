@@ -1,3 +1,3 @@
 import secrets
-secret_key = secrets.token_hex(24)  # Generates a 48-character key
+secret_key = secrets.token_hex(24) 
 print(secret_key)
